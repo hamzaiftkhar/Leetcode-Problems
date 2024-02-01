@@ -8,3 +8,5 @@ Welcome to the Daily Coding Problems repository! In this repository, you will fi
 - [Problem 3- Remove Element](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-3) - Given an integer array `nums` and an integer `val`, remove all occurrences of `val` in `nums` in-place. The order of the elements may be changed. Then return the number of elements in `nums` which are not equal to `val`.
 
 - [Problem 4- Search Insert Position](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-4) - Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. You must write an algorithm with `O(log n)` runtime complexity.
+
+- [Problem 5- Plus One](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-5) - Given a **non-empty** array of decimal digits representing a non-negative integer, increment one to the integer. The digits are stored such that the most significant digit is at the head of the list, and each element in the array contains a single digit. You must write an algorithm with `O(n)` runtime complexity.
