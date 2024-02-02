@@ -10,3 +10,5 @@ Welcome to the Daily Coding Problems repository! In this repository, you will fi
 - [Problem 4- Search Insert Position](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-4) - Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. You must write an algorithm with `O(log n)` runtime complexity.
 
 - [Problem 5- Plus One](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-5) - Given a **non-empty** array of decimal digits representing a non-negative integer, increment one to the integer. The digits are stored such that the most significant digit is at the head of the list, and each element in the array contains a single digit. You must write an algorithm with `O(n)` runtime complexity.
+
+- [Problem 6- Pascal's Triangle](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-6) - Given an integer `numRows`, return the first `numRows` of Pascal's triangle. In Pascal's triangle, each number is the sum of the two numbers directly above it as shown.
