@@ -14,3 +14,5 @@ Welcome to the Daily Coding Problems repository! In this repository, you will fi
 - [Problem 6- Pascal's Triangle](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-6) - Given an integer `numRows`, return the first `numRows` of Pascal's triangle. In Pascal's triangle, each number is the sum of the two numbers directly above it as shown.
 
 - [Problem 7- Merge Two Sorted Arrays](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-7) - Given two sorted integer arrays `nums1` and `nums2`, merge `nums2` into `nums1` as one sorted array. The number of elements initialized in `nums1` and `nums2` are `m` and `n` respectively. You must write an algorithm with `O(m + n)` runtime complexity.
+
+- [Problem 8- Single Number](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-8) - Given a non-empty array of integers `nums`, every element appears twice except for one. Find that single one. You must write an algorithm with `O(n)` runtime complexity and `O(1)` extra space complexity.
