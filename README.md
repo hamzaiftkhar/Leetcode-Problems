@@ -18,3 +18,5 @@ Welcome to the Daily Coding Problems repository! In this repository, you will fi
 - [Problem 8- Single Number](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-08) - Given a non-empty array of integers `nums`, every element appears twice except for one. Find that single one. You must write an algorithm with `O(n)` runtime complexity and `O(1)` extra space complexity.
 
 - [Problem 9- Majority Element](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-09) - Given an array `nums` of size n, return the majority element. The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array. You must write an algorithm with `O(n)` runtime complexity and `O(1)` extra space complexity.
+
+- [Problem 10- Pascal's Triangle II](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-10) - Given an integer `rowIndex`, return the `rowIndex`-th (0-indexed) row of Pascal's triangle. In Pascal's triangle, each number is the sum of the two numbers directly above it .
