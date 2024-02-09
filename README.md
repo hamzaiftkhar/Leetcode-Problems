@@ -24,3 +24,5 @@ Welcome to the Daily Coding Problems repository! In this repository, you will fi
 - [Problem 11- Summary Ranges](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-11) - You are given a sorted unique integer array `nums`. Return the smallest sorted list of ranges that cover all the numbers in the array exactly. That is, each element of `nums` is covered by exactly one of the ranges, and there is no integer `x` such that `x` is in one of the ranges but not in `nums`.
 
 - [Problem 12- Missing Number in Array](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-12) - Given an array `nums` containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
+
+- [Problem 13- Move Zeros](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-13) - Given an integer array `nums`, move all `0`'s to the end of it while maintaining the relative order of the non-zero elements. You must do this in-place without making a copy of the array.
