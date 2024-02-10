@@ -26,3 +26,5 @@ Welcome to the Daily Coding Problems repository! In this repository, you will fi
 - [Problem 12- Missing Number in Array](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-12) - Given an array `nums` containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
 
 - [Problem 13- Move Zeros](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-13) - Given an integer array `nums`, move all `0`'s to the end of it while maintaining the relative order of the non-zero elements. You must do this in-place without making a copy of the array.
+
+- [Problem 14- Range Sum Query - Immutable](https://github.com/hamzaiftkhar/Leetcode-Problems/tree/main/Problem-14) - Given an integer array `nums`, handle multiple queries of the following type: Calculate the sum of the elements of `nums` between indices `left` and `right`.
